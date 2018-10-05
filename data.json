@@ -1,0 +1,65 @@
+[
+  {
+    "bio":"WordPress is open source software you can use to create a beautiful website, blog, or app.",
+    "star":"",  
+    "github":"https://github.com/WordPress/WordPress",
+    "image": "https://avatars2.githubusercontent.com/u/276006?s=200&v=4",
+    "name":"Wordpress with  PHP 62.9%  JavaScript 25.3%  CSS 11.8%",  
+    "shortname":"Wordpress CMS",
+    "website":"https://wordpress.org/"
+  },
+    {
+    "bio":"Content Management System developed with Laravel framework. Multilingual PHP CMS built with Laravel and bootstrap",
+    "star":"",  
+    "github":"https://github.com/LavaLite/cms",
+    "image":"https://avatars2.githubusercontent.com/u/6159678?s=200&v=4",
+    "name":"LavaLite with  PHP 86.4%  JavaScript 9.4%   HTML 3.9%   Other 0.3%",  
+    "shortname":"LavaLite CMS",
+    "website":"https://lavalite.org"
+  },
+    {
+    "bio":"Node.js CMS and web app framework. KeystoneJS is an open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.",
+    "star":"",  
+    "github":"https://github.com/keystonejs/keystone",
+    "image":"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMTAwIDEwMS40IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMDAgMTAxLjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPgoJPGc+DQoJCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik05NS42LDBINC40QzIsMCwwLDIsMCw0LjV2OTIuNWMwLDIuNSwyLDQuNSw0LjQsNC41aDkxLjJjMi40LDAsNC40LTIsNC40LTQuNVY0LjVDMTAwLDIsOTgsMCw5NS42LDB6DQoJCQkgTTYzLjgsODYuOEw0Mi40LDU3LjhsLTUuNSw2Ljd2MjIuM0gyMi4zdi03MmgxNC41djMyLjJsMjUtMzIuMmgxOC41TDUyLjMsNDguNWwzMCwzOC4zSDYzLjh6Ii8+DQoJPC9nPgo8L3N2Zz4NCg==",
+    "name":"keystone with JavaScript 91.0%  CSS 7.7%  HTML 1.3%",  
+    "shortname":"keystone CMS",
+    "website":"https://keystonejs.com"
+  },
+    {
+    "bio":"Minimalistic, lean & mean, node.js cms",
+    "star":"",  
+    "github":"https://github.com/Gottwik/Enduro",
+    "image":"https://s3-eu-west-1.amazonaws.com/enduro.website/direct_uploads/1484647617_made_with_enduro@2x.png",
+    "name":"Enduro with JavaScript 95.5%  CSS 2.7%  HTML 1.8%",  
+    "shortname":"Enduro CMS",
+    "website":"http://www.endurojs.com/"
+  },
+    {
+    "bio":"CMS framework for Node.js that supports in-context editing, schema-driven content types, flexible widgets, and much more. Hint: start with the docs and use apostrophe-cli.",
+    "star":"",  
+    "github":"https://github.com/apostrophecms/apostrophe",
+    "image":"https://apostrophecms.org/imgs/apos-logo-knockout.svg",
+    "name":"Apostrophe with JavaScript 90.0%   HTML 5.3%   CSS 4.7%",  
+    "shortname":"Apostrophe CMS",
+    "website":"http://apostrophecms.org/"
+  },
+    {
+    "bio":"CMS framework for Django",
+    "star":"",  
+    "github":"https://github.com/stephenmcd/mezzanine",
+    "image":"http://mezzanine.jupo.org/static/img/mezzanine-logo.png",
+    "name":"Mezzanine with Python 54.4%   JavaScript 34.9%  HTML 6.1%   CSS 4.6%",  
+    "shortname":"Mezzanine CMS",
+    "website":"http://mezzanine.jupo.org"
+  },
+    {
+    "bio":"A Django CMS focused on flexibility and user experience",
+    "star":"",  
+    "github":"https://github.com/wagtail/wagtail",
+    "image":"https://camo.githubusercontent.com/33b68033503fc5de8f26c6aa827dce1339ddc032/68747470733a2f2f63646e2e7261776769742e636f6d2f7761677461696c2f7761677461696c2f6d61737465722f2e6769746875622f7761677461696c2e737667",
+    "name":"Wagtail with Python 80.9%  HTML 8.6%   JavaScript 6.1%   CSS 4.2%  Shell 0.2%  Makefile 0.0%",  
+    "shortname":"Wagtail CMS",
+    "website":"https://wagtail.io"
+  } 
+]
