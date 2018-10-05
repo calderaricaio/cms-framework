@@ -1,1 +1,14 @@
-Learning AJAX by building search functionality. Live demo: http://ajax-search.s3-website-us-east-1.amazonaws.com/
+# cms-framework ✨
+
+
+> Learning AJAX by building search functionality for CMS and Framework.
+
+
+## Live Demo
+
+[Demo cms-framework](https://airqz.github.io/cms-framework/)
+
+
+### License
+
+[MIT License]
